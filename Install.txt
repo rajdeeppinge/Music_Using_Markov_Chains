@@ -2,3 +2,6 @@ pip install midiutil
 pip install -U nltk
 
 mido
+
+To play MIDI files
+sudo apt install wildmidi
