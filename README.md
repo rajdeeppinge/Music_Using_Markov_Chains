@@ -5,3 +5,7 @@ In this Project, the focus is on the Markov Chains approach to generating music 
 Different Approaches to generating Transition Matrices for Markov Chains have been studied in this project.
 Random initialization of new music sequence to be generated has also been implemented successfully.
 Finally, necessary conclusions about the effectiveness of this approach of machine generated music have been made in the presentation and report by analyzing the observations.
+
+The following links have been referred when writing this code: 
+https://github.com/CMasanto/melody-generator 
+https://github.com/omgimanerd/markov-music/
